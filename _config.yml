@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Haofeng Chen"
-description              : "This is the academic homepage of Ph.D. Tang."
+description              : "This is the academic homepage of Ph.D. Chen."
 repository               : "Irobot-chf/Irobot-chf.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,13 +23,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Haofeng Chen"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Huazhong university of science and technology"
-  location         : "Wuhan, China"
-  employer         : #"Hefei General Machinery Research Institute"
+  bio              : "University of Science and Technology of China"
+  location         : "Anhui, China"
+  employer         : #""
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=WMkMTb4AAAAJ"
-  email            : "tangj@hust.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Jian-Tang-53"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=IBlC5j4AAAAJ&hl=zh-CN"
+  email            : "hfchen95@mail.ustc.edu.cn"
+  researchgate     : "https://www.researchgate.net/profile/Haofeng-Chen-2/research"
   uri              : 
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tangjyan"
+  github           : #""
   google_plus      :
   keybase          :
   instagram        :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0001-9658-209X"
+  orcid            : "https://orcid.org/0000-0003-4965-2301"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
