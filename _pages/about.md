@@ -52,7 +52,7 @@ My research interest includes:
 </div>
 -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACS Appl. Electron. Mater. 2023</div><img src='images/TOC.pdf' alt="sym" width="1000%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACS Appl. Electron. Mater. 2023</div><img src='images/TOC.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	H. Chen, X. Yang, J. Geng, G. Ma, and X. Wang, "A Skin-Like Hydrogel for Distributed Force Sensing Using an Electrical Impedance Tomography-Based Pseudo-Array Method," ACS Applied Electronic Materials, vol. 5, no. 3, pp. 1451-1460, 2023/03/28 2023. (JCR:Q2; IF:4.7)  
