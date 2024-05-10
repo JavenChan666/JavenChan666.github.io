@@ -33,7 +33,7 @@ My research interest includes:
 
 
 # 🎓 Educations 
-- *2018.09 - 2024.06 (Expected)*, <a href="hhttps://www.ustc.edu.cn/"><img class="png" src="/images/ustc_logo.png" width="23pt"></a> University of Science and Technology of China, Anhui China. 
+- *2018.09 - 2024.06 (Expected)*, <a href="https://www.ustc.edu.cn/"><img class="png" src="/images/ustc_logo.png" width="23pt"></a> University of Science and Technology of China, Anhui China. 
 - *2014.09 - 2018.06*, <a href="https://www.xidian.edu.cn/"><img class="png" src="/images/xidian_logo.png" width="20pt"></a>, Xidian University, Xi'an China. 
  
 
